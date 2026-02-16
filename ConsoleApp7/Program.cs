@@ -9,6 +9,12 @@ namespace ConsoleApp7
 
         public List<int> korok { get; set; }
     }
+
+    class diak
+    {
+        public string nev { get; set; }
+        public int jegyek { get; set; }
+    }
     internal class Program
     {
         static void Main(string[] args)
